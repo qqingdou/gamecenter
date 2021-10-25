@@ -1,2 +1,2 @@
-# gamecenter-docs
-The docs of game center
+# gamecenter
+The website of game center
